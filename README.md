@@ -1,10 +1,7 @@
-# fix-al-file-names README
+# Fix AL File Names
 
-Use this extension to fix AL file names as per the best practices recommended by MicroSoft.
+Use this extension to fix AL file names as per the best practices recommended by Microsoft.
 
-## Features
+## Usage
 
-Run the Fix AL File Names command from the Command Palette (`Ctrl+Shift+P`) in the new window
-
-
-**Enjoy!**
+Run the 'Fix AL File Names' command from the Command Palette (`Ctrl+Shift+P`).

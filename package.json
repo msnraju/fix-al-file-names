@@ -3,7 +3,7 @@
 	"displayName": "Fix AL File Names",
 	"description": "Change AL file names as per the best practices",
 	"publisher": "MSNRaju",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"icon": "icon/logo.png",
 	"repository": {
 		"url": "https://github.com/msnraju/fix-al-file-names"
