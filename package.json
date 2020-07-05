@@ -5,6 +5,9 @@
 	"publisher": "MSNRaju",
 	"version": "0.0.1",
 	"icon": "icon/logo.png",
+	"repository": {
+		"url": "https://github.com/msnraju/fix-al-file-names"
+	},
 	"engines": {
 		"vscode": "^1.46.0"
 	},
