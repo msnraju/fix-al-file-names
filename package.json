@@ -50,5 +50,7 @@
 	"dependencies": {
 		"@types/n-readlines": "^1.0.1",
 		"n-readlines": "^1.0.0"
-	}
+	},
+	"keywords": ["AL", "Naming Conventions", "Business Central", "Dynamics 365"]
+
 }
