@@ -69,6 +69,9 @@ export default class FixALFileName {
             case "pageextension":
               type = "PageExt";
               break;
+            case "reportextension":
+              type = "ReportExt";
+              break;
           }
 
           const name = (match[5] || "") + (match[4] || "");
